@@ -1,0 +1,76 @@
+*
+{
+font-size: 20px;
+text-align : center;
+background-color : pink;
+font-family:Segoe UI;
+}
+
+#div01
+{
+line-height:10px;
+}
+
+#create
+{
+margin-border:8px;
+font-size:40px;
+color:#2d3748;
+}
+
+#login
+{
+font-size:15px;
+}
+
+#signup
+{
+text-align : center;
+}
+
+#details
+{
+text-align: center;
+}
+
+h1,h4
+{
+text-align: center;
+}
+
+h3
+{
+text-align : center;
+height:100px;
+}
+
+#terms
+{
+font-size:15px;
+}
+
+#button
+{
+text-align: center;
+text-color:red;
+color:purple;
+}
+
+hr
+{
+height:10px;
+width:normal;
+}
+
+#option
+{
+text-align: center;
+font-size:15px;
+color:green;
+font-family:Segoe UI;
+}
+
+#register
+{
+text-align:10px;
+}
